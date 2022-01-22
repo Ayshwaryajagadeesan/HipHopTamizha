@@ -1,0 +1,30 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.jagadeesan.hiphoptamizha.ShopNow">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/app_bar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true">
+
+
+
+        <com.etiya.etiyabadgetablib.EtiyaBadgeTab
+            android:id="@+id/etiyaBadgeTabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:elevation="4dp" />
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+
+    </android.support.design.widget.AppBarLayout>
+</FrameLayout>
