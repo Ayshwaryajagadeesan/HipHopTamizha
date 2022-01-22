@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "782444848793",
+    "firebase_url": "https://hiphoptamizha-655df.firebaseio.com",
+    "project_id": "hiphoptamizha-655df",
+    "storage_bucket": "hiphoptamizha-655df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782444848793:android:1359f1be25edbbfb",
+        "android_client_info": {
+          "package_name": "com.example.jagadeesan.hiphoptamizha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782444848793-3icep27oj9s27k0bijb5qu61n20d88c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jagadeesan.hiphoptamizha",
+            "certificate_hash": "2084b424c5e47ec635301869125f7542d4d2beff"
+          }
+        },
+        {
+          "client_id": "782444848793-cn3nv88qittkrnm5ld8tn5cpvhagltos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMls6vnTDux1J_QW_xIfpWEghpTpvZfA4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782444848793-cn3nv88qittkrnm5ld8tn5cpvhagltos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
